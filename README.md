@@ -1,4 +1,9 @@
-# Beautique Data Sync Operation and Integration
+### **Project Title:** Beautique Data Sync Operation and Integration
+**Course:** Business Data Management
+**Author:** Priyanshu Yadav  
+**Roll No:** 23f1000018  
+**Email:** 23f1000018@ds.study.iitm.ac.in  
+**Institute:** IIT Madras BS Program  
 
 This project focuses on streamlining data synchronization and integration processes for beauty parlours and boutique businesses. It enhances operational efficiency and business intelligence through data analysis and reporting.
 
